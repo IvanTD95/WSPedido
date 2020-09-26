@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\bin\Debug\netcoreapp2.2\WSPedido.deps.json
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\bin\Debug\netcoreapp2.2\WSPedido.runtimeconfig.json
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\bin\Debug\netcoreapp2.2\WSPedido.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\bin\Debug\netcoreapp2.2\WSPedido.dll
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.RazorAssemblyInfo.cache
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.RazorAssemblyInfo.cs
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\bin\Debug\netcoreapp2.2\WSPedido.pdb
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.dll
+C:\Users\Ivan\source\repos\WSPedido\WSPedido\obj\Debug\netcoreapp2.2\WSPedido.pdb
